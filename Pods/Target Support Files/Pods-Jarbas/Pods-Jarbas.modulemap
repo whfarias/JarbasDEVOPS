@@ -1,0 +1,6 @@
+framework module Pods_Jarbas {
+  umbrella header "Pods-Jarbas-umbrella.h"
+
+  export *
+  module * { export * }
+}
