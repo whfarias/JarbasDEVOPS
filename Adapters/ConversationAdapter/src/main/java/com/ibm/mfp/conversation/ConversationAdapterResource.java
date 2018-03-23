@@ -54,7 +54,7 @@ import com.google.gson.Gson;
 public class ConversationAdapterResource {
 	// Define logger (Standard java.util.Logger)
 	static Logger logger = Logger.getLogger(ConversationAdapterResource.class.getName());
-
+// Documentação do adapter
 	//Inject the MFP configuration API:
 	@Context
 	ConfigurationAPI configApi;
